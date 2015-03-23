@@ -41,11 +41,11 @@
         <!-- 百度地图 -->
         <meta-data
             android:name="com.baidu.lbsapi.API_KEY"
-            android:value="ClZEa1GcU6BSoUFgKg2bIWug" />
+            android:value="你的百度KEY" />
         <!-- 聚合数据 -->
         <meta-data
             android:name="com.thinkland.juheapi.openid"
-            android:value="JH81a71f4101ebd6e9e4d116869e4baf20" />
+            android:value="你的聚合数据的开发者KEY" />
 
         <activity
             android:name=".MainActivity"
