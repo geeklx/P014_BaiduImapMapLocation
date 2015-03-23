@@ -33,7 +33,7 @@
         <!-- 百度Key -->
         <meta-data
             android:name="com.baidu.lbsapi.API_KEY"
-            android:value="Y9D4gcxKWPvr8MCPSf2F2L3X" />
+            android:value="你的百度KEY" />
 
         <activity
             android:name="com.liangxiao.mapdemo.MainActivity"
